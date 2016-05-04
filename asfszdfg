@@ -1,1 +1,10 @@
 //james is cool
+function jamesisnotcool (value)
+  {
+  var i = 0
+  if (value > 2)
+    {
+    i++
+    }
+  return i
+  }
